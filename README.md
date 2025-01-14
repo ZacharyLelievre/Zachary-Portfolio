@@ -14,7 +14,7 @@ I'm Zachary Lelièvre, a passionate and resilient developer with a strong focus 
 - **Frameworks & Libraries:** Spring Boot, React, SwiftUI
 - **Database Management:** MySQL, MongoDB
 - **Tools & Platforms:** Docker, Git, IntelliJ IDEA, VS Code
-- **Development Practices:** Agile (Scrum Master experience), Test-Driven Development (TDD), CI/CD
+- **Development Practices:** Agile (Scrum Master experience), CI/CD
 
 ---
 
